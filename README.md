@@ -1,2 +1,2 @@
-# Composition
-Example of composition, inheritance, abstarction and oop structures
+# 
+Java related topics and some problems of solutions
